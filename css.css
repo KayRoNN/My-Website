@@ -1,0 +1,60 @@
+.title {
+    color: #FFFFFF;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 385%;
+   
+
+
+}
+
+
+
+
+h4 {
+    color: #DF2645;
+    font-style: italic;
+    font-size: 150%;
+}
+
+
+h3 {
+    font-style: bold;
+    font-family: cursive;
+    font-size: 125%
+
+}
+
+     body {
+    background-image: url("banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+h5 {
+    font-style: italic;
+    font-size: 105%;
+    color: #FFFFFF;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450
+}
+    
+
+
+
+
+
+
+
+
+
+
+

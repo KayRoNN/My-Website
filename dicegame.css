@@ -1,0 +1,71 @@
+body{
+    background-image: linear-gradient(to bottom right,red,orange,yellow, purple)
+}
+
+
+.game{
+    border: 10px solid purple;
+    display: inline-block;
+    width: 20%;
+    height: 55%;
+    position: absolute;
+    top: 18%;
+    right: 40%;
+}
+
+.playerscore{
+    font-size: 150%;
+    position: absolute;
+    top: 10%;
+    right: 35%;
+
+}
+
+.score{
+    font-size: 150%;
+    position: absolute;
+    top: 20%;
+    right: 50%;
+}
+
+
+
+#playerButton{
+    position: absolute;
+    top: 80%;
+    right: 43%;
+    font-size: 40px;
+    background: none;
+    border: none;
+}
+
+
+#bomb{
+    position: absolute;
+    top: 70%;
+    right: 43%;
+    font-size: 35px;
+    background: none;
+    border: none;
+}
+
+
+
+#angry{
+    position: absolute;
+    top: 0%;
+    right: 40%;
+    font-size: 50px;
+    background: none;
+    border: none;
+
+}
+
+#battery{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    font-size: 45px;
+    background: none;
+    border: none;
+}
